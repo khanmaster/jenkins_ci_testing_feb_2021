@@ -1,4 +1,4 @@
-## Sparta Node Sample App
+## Start Sparta Node Sample App
 
 ## Description
 
